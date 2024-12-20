@@ -1,4 +1,4 @@
-# d6t-2jcieev01-arduino
+# Arduino MEMS Thermal Sensor Project using OMron Thermal MEMS sensors
 It is a sample projects for D6T OMRON MEMS Thermal Sensors with
 evaluation kit **2JCIE-EV01-AR1**,
 **2JCIE-EV01-FT1** and some Arduino boards.
